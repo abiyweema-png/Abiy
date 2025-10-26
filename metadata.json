@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Salesperson Dashboard",
+  "description": "A comprehensive dashboard for salespeople to manage prospects, track performance, submit daily reports, and access sales guidelines. All data is stored locally in the browser.",
+  "requestFramePermissions": []
+}
